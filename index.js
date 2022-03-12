@@ -175,6 +175,7 @@ heealstc = fs.readFileSync('./lib/sticker/Healmu kurang.webp')
 
 //===============================================================================//
 
+cok = "halo"
 cecan = "cecan" 
 cogan = "cogan" 
 genshin = "genshin" 
