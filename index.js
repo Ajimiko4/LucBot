@@ -172,6 +172,7 @@ judistc = fs.readFileSync('./lib/sticker/Mari berjudi.webp')
 siegrinstc = fs.readFileSync('./lib/sticker/Subcribe siegrin.webp')
 makanstc = fs.readFileSync('./lib/sticker/Kamu lapar makan dulu.webp')
 heealstc = fs.readFileSync('./lib/sticker/Healmu kurang.webp')
+cok = fs.readFileSync('./lib/temanye/deff.jpg')
 
 //===============================================================================//
 
@@ -182,8 +183,8 @@ meme = "meme"
 lol = "lol" 
 ml = "ml"
 fantasy = "dungeon"
-deflttheme = "deff.jpg" 
-themenye = `${cecan}` 
+deflttheme = "logo" 
+themenye = `${cok}` 
 
 
 //===============================================================================//
