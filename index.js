@@ -182,7 +182,7 @@ meme = "meme"
 lol = "lol" 
 ml = "ml"
 fantasy = "dungeon"
-deflttheme = "logo" 
+deflttheme = "deff.jpg" 
 themenye = `${cecan}` 
 
 
